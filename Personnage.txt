@@ -1,3 +1,5 @@
 debut de la classe personnage
 Modif 2
 fonction deplacer
+Modif 3 ajout méthode regarder
+
