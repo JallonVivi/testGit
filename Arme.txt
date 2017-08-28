@@ -1,1 +1,3 @@
 creation de la classe arme
+
+ajout d'un texte pour maj de git (pull)
