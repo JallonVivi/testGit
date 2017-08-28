@@ -1,2 +1,3 @@
 debut de la classe personnage
 Modif 2
+fonction deplacer
