@@ -1,2 +1,3 @@
 debut de la classe personnage
 Modif 2
+Modif 3 ajout méthode regarder
